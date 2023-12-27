@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OpenAi-Clone/static/css/main.e0620929.css",
+    "main.js": "/OpenAi-Clone/static/js/main.394f09ad.js",
+    "static/media/ai.png": "/OpenAi-Clone/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/OpenAi-Clone/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/OpenAi-Clone/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/OpenAi-Clone/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/OpenAi-Clone/static/media/blog04.d5f7a87b2e7a460d49b2.png",
+    "static/media/blog05.png": "/OpenAi-Clone/static/media/blog05.778b3513641306edb7e2.png",
+    "static/media/blog02.png": "/OpenAi-Clone/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/OpenAi-Clone/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/OpenAi-Clone/static/media/logo.37dbcdcb4d00720029179dce4defb98c.svg",
+    "index.html": "/OpenAi-Clone/index.html",
+    "main.e0620929.css.map": "/OpenAi-Clone/static/css/main.e0620929.css.map",
+    "main.394f09ad.js.map": "/OpenAi-Clone/static/js/main.394f09ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0620929.css",
+    "static/js/main.394f09ad.js"
+  ]
+}
